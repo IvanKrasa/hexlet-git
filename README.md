@@ -1,1 +1,3 @@
-Hello, Hexlet! How are you?
+<<<<<<< HEAD
+No code No pain
+>>>>>>> fee8fdc (udate README.md)
